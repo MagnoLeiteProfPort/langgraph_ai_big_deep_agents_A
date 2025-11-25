@@ -196,6 +196,9 @@ Open:
 
 👉 **http://127.0.0.1:8002**
 
+Example of the page and a result:
+![alt text](image.png)
+
 ---
 
 # 🧠 **Agent Logic (LangGraph)**
